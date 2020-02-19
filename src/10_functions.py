@@ -8,12 +8,12 @@
 # is_even(2)
 
 # Read a number from the keyboard
-num = int(input("Enter a number: "))
+num = int(input("Nomre daxil et: "))
 num = int(num)
 if (num % 2) == 0:
-   print(f"{num} is Even")
+   print(f"{num} cut")
 else:
-   print(f"{num} is Odd")
+   print(f"{num} tek")
 
 # Print out "Even!" if the number is even. Otherwise print "Odd"
 # YOUR CODE HERE
